@@ -1,0 +1,196 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+header{
+	width: 100%;
+	background-color: silver;
+	position: fixed;
+	float: left;
+
+}
+
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+
+.logo-section{
+	width: 20%;
+	float: left;
+	
+}
+
+
+.logo-section img{
+	width:80px;
+	
+}
+
+.menu{
+	width: 60%;
+	float: left;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-weight: bold;
+	text-align: center;
+	
+
+}
+
+
+nav ul{
+	list-style: none;
+}
+
+nav ul li{
+	display: inline-block;
+	margin: 30px 20px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	background-color: #0072E1;
+	color: white;
+	padding: 20px;
+	border-radius: 50px;
+}
+
+
+.social-icon{
+	width: 20%;
+	float: left;
+	text-align: right;
+
+}
+
+.social-icon ul{
+	list-style: none;
+
+	
+
+}
+
+.social-icon ul li{
+	display: inline-block;
+	margin: 33px 5px;
+
+	
+
+}
+
+.social-icon ul li a{
+	text-decoration: none;
+	background-color: #0072E1;
+	color: white;
+	padding: 3px 5px;
+	border-radius: 5px;	
+
+}
+
+.banner{
+	width: 100%;
+}
+/*
+.banner-text{
+	width: 30%;
+	height: 50px;
+	background-color: black;
+	opacity: 50%;
+	position: relative;
+	margin-top: -15%;
+}
+
+.banner-text h1{
+	text-align: center;
+	color: white;
+}
+*/
+.about-this{
+	width: 100%;
+	float:left;
+}
+
+.about-this-one{
+	width: 15%;
+	text-align: center;
+	float: left;
+	background-color: skyblue;
+	margin: 5%;
+	padding: 10px 0px;
+	
+	
+}
+
+.about-this-one h3{
+	color: black;
+}
+
+.about-this-one p{
+	color: black;
+}
+
+.about-this-two{
+	width: 15%;
+	text-align: center;
+	float: left;
+	background-color: silver;
+	margin: 5%;
+	padding: 10px 0px;
+
+	
+}
+
+.about-this-two h3{
+	color: black;
+}
+
+.about-this-two p{
+	color: black;
+}
+
+.about-this-three{
+	width: 15%;
+	text-align: center;
+	float: left;
+	background-color: skyblue;
+	margin: 5%;
+	padding: 10px 0px;
+
+}
+
+.about-this-three h3{
+	color: black;
+}
+
+.about-this-three p{
+	color: black;
+}
+
+.about-this-four{
+	width: 15%;
+	text-align: center;
+	float: left;
+	background-color: silver;
+	margin: 5%;
+	padding: 10px 0px;
+
+	
+}
+
+.about-this-four h3{
+	color: black;
+}
+
+.about-this-four p{
+	color: black;
+}
+
+.fa.fa-check{
+	background-color: white;
+	padding: 5px;
+	margin: 5px;
+	border-radius: 15px;
+}
